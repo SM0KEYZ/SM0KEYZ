@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nathan
+- 👀 I’m interested in coding, software and hardware
+- 🌱 I’m currently learning in school
